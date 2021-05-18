@@ -12,4 +12,13 @@ pre {
   white-space: pre-wrap;
   background: var(--background-color);
   color: var(--text-color);
+  font-size: 25px;
+}
+
+#thank-you-jeff {
+  font-size: 14px;
+}
+
+a {
+  margin-top: 20px;
 }
