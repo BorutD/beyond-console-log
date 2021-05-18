@@ -1,0 +1,15 @@
+:root {
+  /* --background-color: #3f3f3f; */
+  --background-color: #000000;
+  --text-color: #fff;
+}
+
+code {
+  background: var(--background-color);
+}
+
+pre {
+  white-space: pre-wrap;
+  background: var(--background-color);
+  color: var(--text-color);
+}
